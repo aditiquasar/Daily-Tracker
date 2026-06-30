@@ -38,9 +38,9 @@ Menu:
 ## Example
 
 Enter your name:
-Aditi
+(xyz)
 
-Welcome, Aditi!
+Welcome,(xyz)!
 
 Choose option: 1
 
