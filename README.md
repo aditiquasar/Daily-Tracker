@@ -5,10 +5,15 @@ A beginner-friendly terminal project built in Python to practice loops, lists, c
 ## Features
 
 ✅ Enter user name
+
 ✅ Add tasks
+
 ✅ Complete tasks
+
 ✅ View remaining tasks
+
 ✅ Exit program
+
 ✅ Handles invalid menu choices
 
 ---
