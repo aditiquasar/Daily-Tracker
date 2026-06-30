@@ -105,3 +105,7 @@ Then add another task separately.
 
 
 Built while learning Python through practice.
+
+Author
+Aditi
+(Student)
